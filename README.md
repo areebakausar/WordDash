@@ -26,6 +26,7 @@ There are two main parts to this lab: creating a hash table and writing a word s
   Here are results from come runs of the program. This program was written, built and ran on emacs on a linux machine.
   
   
+  ![Image](https://github.com/areebakausar/areebakausar/blob/master/demos/Worddash.gif)
 
   ![Image](https://i.imgur.com/0gcUeXZ.png)
 ![Image](https://i.imgur.com/5UhSGLo.png)
