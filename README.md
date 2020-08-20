@@ -16,14 +16,16 @@ A string of letters from the grid depends on four values:
 So, given a dictionary and word search grid, your program should output all the words in the grid that are in the dictionary.
 There are two main parts to this lab: creating a hash table and writing a word search solver.Word search solver, implemented in wordPuzzle.cpp, should:
 
-    Take in a dictionary file and grid file, in that order, using command line parameters
-    Read in a dictionary and store its words in a hash table which is implemented without using a vector of vectors or any STL hash table
-    Read in a word search grid no larger than 500x500 and store it in an appropriate data structure
-    Output every word of length three or greater and its location in the grid
-    Output the time it took to find all the words
-    Employs various optimization techniques to find the words in minimum possible time. 
+1- Take in a dictionary file and grid file, in that order, using command line parameters
+2- Read in a dictionary and store its words in a hash table which is implemented without using a vector of vectors or any STL hash table
+3- Read in a word search grid no larger than 500x500 and store it in an appropriate data structure
+4- Output every word of length three or greater and its location in the grid
+5- Output the time it took to find all the words
+6- Employs various optimization techniques to find the words in minimum possible time. 
     
   Here are results from come runs of the program. This program was written, built and ran on emacs on a linux machine.
+  
+  
 
   ![Image](https://i.imgur.com/0gcUeXZ.png)
 ![Image](https://i.imgur.com/5UhSGLo.png)
